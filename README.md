@@ -140,6 +140,9 @@ In a wider sense research data management include also research information mana
 * [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?pli=1)
 * [Research Data Scarytales](https://forschungsdaten-thueringen.de/rdm-scarytales/articles/overview.html)
 * [Data Management: The Game](https://sites.google.com/view/data-management-the-game/)
+* [Mission GDR: jeu sérieux sur la gestion des données de la recherche](https://doi.org/10.5281/zenodo.12706339)
+   * English Translation: [Mission FDM: a card-based educational escape game on research data management](https://doi.org/10.5281/zenodo.14886444)
+   * German Translation: [Mission FDM: Ein Escape Game zum Forschungsdatenmanagement](https://doi.org/10.5281/zenodo.15646264)
 
 ### Wikis
 
