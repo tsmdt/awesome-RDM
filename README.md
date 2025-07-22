@@ -14,7 +14,7 @@ In a wider sense research data management include also research information mana
 
 * [General resources](#general-resources)
     * [Registries](#registries)
-        * [Registries of Terminologies, Vocabularies, Ontologies](#registries-of-terminologies,-vocabularies,-ontologies)
+        * [Registries of Terminologies, Vocabularies, Ontologies](#registries-of-terminologies-vocabularies-ontologies)
     * [Toolkits](#toolkits)
     * [Courses](#courses)
     * [Books](#books)
@@ -35,8 +35,9 @@ In a wider sense research data management include also research information mana
         * [Reusing data](#reusing-data)
     * [Executing a project](#executing-a-project)
         * [Collecting data](#collecting-data)
-        * [Creating metadata](#creating-metadata)
-        * [Organizing data](#organizing-data)
+        * [Data documentation](#data-documentation)
+           * [Creating metadata](#creating-metadata)
+           * [Organizing data](#organizing-data)
         * [Data storage](#data-storage)
         * [Data backup](#data-backup)
         * [Cleaning data](#cleaning-data)
@@ -340,11 +341,15 @@ Metadata and data portals:
 Methods of collecting data:
 * [7 Data Collection Methods in Business Analytics](https://online.hbs.edu/blog/post/data-collection-methods) by Harvard Business School
 
-#### Creating metadata
+#### Data documentation
+
+* [Making a research project understandable - Guide for data documentation (2018)](https://doi.org/10.5281/zenodo.1914401) by Siiri Fuchs and Mari Elisa Kuusniemi is a compact guide for researchers on how to document research data. 
+
+##### Creating metadata
 
 * [User guide on creating metadata](https://guides.library.stanford.edu/research-metadata) by Stanford University Libraries offers advice on gathering basic and semantic metadata for research data, including a list of some metadata standards, ontologies, and [metadata creation tools](https://guides.library.stanford.edu/research-metadata/metadata-tools).
   
-#### Organizing data
+##### Organizing data
 
 * [Data organization](https://rdmkit.elixir-europe.org/data_organisation) in RDMkit
 * [Folder structure, file names, and versioning](https://snd.gu.se/en/manage-data/organise/folder-structure-filenames-versioning) by Swedish National Data Service
@@ -381,6 +386,7 @@ Separate storage for sensitive data
 * [Data Exploration in R (9 Examples) | Exploratory Analysis & Visualization](https://statisticsglobe.com/data-exploration-r)
 
 #### Data interpretation
+
 * [Data Interpretation](https://unacademy.com/content/ssc/study-material/mathematics/data-interpretation/) by Unacademy
 * [Data Interpretation: Method, Types, Tips with Solved Examples](https://testbook.com/maths/data-interpretation) by Testbook
 * [Basic data interpretation](https://www.port.ac.uk/student-life/help-and-advice/study-skills/written-assignments/basic-data-interpretation) by University of Portsmouth
