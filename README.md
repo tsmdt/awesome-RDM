@@ -94,7 +94,6 @@ In a wider sense research data management include also research information mana
 * [JISC RDM Toolkit](https://www.jisc.ac.uk/guides/rdm-toolkit)
 * [RDMtoolkit](https://guides.library.uwa.edu.au/RDMtoolkit) of the library at the University of Western Australia
 * [Data Management Toolkit @ UNH](https://libraryguides.unh.edu/datamanagement) at University of New Hampshire
-* [LEARN Toolkit of Best Practice for RDM](https://www.fosteropenscience.eu/content/learn-toolkit-best-practice-research-data-management) by [fosteropenscience](https://www.fosteropenscience.eu)
 * [Research Data Toolkit](https://guides.lib.unc.edu/researchdatatoolkit) at UNC library
 
 ### Courses
